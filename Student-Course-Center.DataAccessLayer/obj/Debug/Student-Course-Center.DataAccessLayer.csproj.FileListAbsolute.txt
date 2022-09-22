@@ -1,0 +1,17 @@
+C:\Users\emrahe\source\repos\Student-Course-Center.DataAccessLayer\bin\Debug\Student-Course-Center.DataAccessLayer.dll.config
+C:\Users\emrahe\source\repos\Student-Course-Center.DataAccessLayer\bin\Debug\Student-Course-Center.DataAccessLayer.dll
+C:\Users\emrahe\source\repos\Student-Course-Center.DataAccessLayer\bin\Debug\Student-Course-Center.DataAccessLayer.pdb
+C:\Users\emrahe\source\repos\Student-Course-Center.DataAccessLayer\bin\Debug\Dapper.dll
+C:\Users\emrahe\source\repos\Student-Course-Center.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\emrahe\source\repos\Student-Course-Center.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\emrahe\source\repos\Student-Course-Center.DataAccessLayer\bin\Debug\Student-Course-Center.EntityLayer.dll
+C:\Users\emrahe\source\repos\Student-Course-Center.DataAccessLayer\bin\Debug\Student-Course-Center.EntityLayer.pdb
+C:\Users\emrahe\source\repos\Student-Course-Center.DataAccessLayer\bin\Debug\Student-Course-Center.EntityLayer.dll.config
+C:\Users\emrahe\source\repos\Student-Course-Center.DataAccessLayer\bin\Debug\Dapper.xml
+C:\Users\emrahe\source\repos\Student-Course-Center.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\emrahe\source\repos\Student-Course-Center.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\emrahe\source\repos\Student-Course-Center.DataAccessLayer\obj\Debug\Student-Course-Center.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\emrahe\source\repos\Student-Course-Center.DataAccessLayer\obj\Debug\Student-Course-Center.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\emrahe\source\repos\Student-Course-Center.DataAccessLayer\obj\Debug\Student-Course-Center.DataAccessLayer.csproj.CopyComplete
+C:\Users\emrahe\source\repos\Student-Course-Center.DataAccessLayer\obj\Debug\Student-Course-Center.DataAccessLayer.dll
+C:\Users\emrahe\source\repos\Student-Course-Center.DataAccessLayer\obj\Debug\Student-Course-Center.DataAccessLayer.pdb

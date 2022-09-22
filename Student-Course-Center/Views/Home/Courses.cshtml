@@ -1,0 +1,13 @@
+﻿@using Student_Course_Center.EntityLayer.DapperEntities
+@model List<Courses>
+@{
+    ViewBag.Title = "Courses";
+}
+
+@foreach (var item in Model)
+{
+    <h2>item.CourseName</h2>
+}
+
+
+
